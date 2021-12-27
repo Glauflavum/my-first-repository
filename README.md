@@ -2,4 +2,6 @@
 Desafio de projeto onde eu monstro e reforço meus conhecimentos em Git/GitHub.
 
 ## Links Úteis
-{sintaxe básica markdowm}(course)
+
+<https://pt.coursera.org/search?query=git&utm_source=gg&utm>
+< https://web.dio.me/browse?filter=Git>
