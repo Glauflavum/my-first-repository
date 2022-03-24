@@ -1,7 +1,3 @@
-# my-first-repository
-Desafio de projeto onde eu monstro e reforço meus conhecimentos em Git/GitHub.
+Minhas artes
 
-## Links Úteis
-
-<https://pt.coursera.org/search?query=git&utm_source=gg&utm>
-< https://web.dio.me/browse?filter=Git>
+![2](https://user-images.githubusercontent.com/90910612/159940605-1feee7dd-e021-4229-a502-58b9afed8754.png)
